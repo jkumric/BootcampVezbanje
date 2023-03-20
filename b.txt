@@ -2,4 +2,5 @@ Prva izmena B.
 
 Druga izmena B.
 
-Treca izmena B.
+Izmena B na branch-u.
+
