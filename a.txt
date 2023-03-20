@@ -3,3 +3,5 @@ Prva izmena A.
 Druga izmena A.
 
 Izmena A na branch-u.
+
+Mali feature drugog coveka u A.
